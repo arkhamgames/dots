@@ -20,7 +20,7 @@ Once all of the squares on the board have been captured the game is considered o
 have been captured by each player. Each captured square of worth one point. Squares marked +10 are worth ten points and squares 
 marked -05 take away five points. The player who has the highest score is the winner.
 
-#### Contact
+### Contact
 Do you have a suggestion you want to share? Feel free to contact me (@pmullins) on [Telegram](https://telegram.org/). I love 
 hearing how people play our games and all the different ways they modify them to better suit their individual play styles. There 
 is no wrong way to play Dots!, just more creative ones. :-)
