@@ -9,11 +9,7 @@ or a series of squares, you should mark them as being yours via your initials. A
 squares that your opponents can capture. This will require some strategy on your part, especially towards the end of a game when 
 most of the dots have been connected and one wrong move can lead to your opponent capturing a dozen or more squares at a time.
 
-<<<<<<< HEAD
 ### Advantage and Disadvantage Squares
-=======
-###  Advantage and Disadvantage Squares
->>>>>>> d72afeaa6d6b9b7130183afd4fb1bb54fa4553e3
 Finally, make use of the special advantage and disadvantage squares that are marked on the game board. Capturing a square with 
 a +10 next to it grants you an advantage and causes your score to increase by ten points instead of just one. That being said, 
 look out for the -05 square that can set you back five points. Players will want to avoid these negative disadvantage squares 
